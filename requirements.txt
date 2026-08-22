@@ -38,7 +38,7 @@ python-telegram-bot==21.1.1
 python-whois
 pyshorteners
 pyttsx3
-py_yt
+py-yt
 pytube
 py-tgcalls==0.9.7
 pyyaml==6.0.1
