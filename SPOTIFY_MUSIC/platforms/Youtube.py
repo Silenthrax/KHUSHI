@@ -4,6 +4,7 @@ import os
 import re
 from typing import Union
 import yt_dlp
+from config import API_URL, API_KEY
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 
