@@ -52,8 +52,8 @@ spotipy
 tgcrypto
 unidecode
 wget
+py_yt
 yt-dlp
 youtube-search
 youtube-search-python
 flask
-py-yt
