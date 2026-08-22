@@ -19,8 +19,6 @@ API_URL = os.environ.get("SHRUTI_API_URL", "https://api.shrutibots.site")
 API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBotsmKSBhBaGhKcXoYLNDLMX")
 
 # Worker API (Now Primary)
-WORKER_FALLBACK_API_URL = os.getenv("WORKER_FALLBACK_API_URL", "https://youtubenewapi.skybotsdeveloper.workers.dev")
-WORKER_FALLBACK_API_KEY = os.getenv("WORKER_FALLBACK_API_KEY", "itsmesid")
 
 def time_to_seconds(time_str):
     stringt = str(time_str)
