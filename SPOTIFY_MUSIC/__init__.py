@@ -45,7 +45,7 @@ git()
 dbb()
 heroku()
 
-nand = Shruti()
+app = BABY()
 userbot = Userbot()
 
 
