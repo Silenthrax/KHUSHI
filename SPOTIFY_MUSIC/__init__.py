@@ -37,6 +37,7 @@ from SPOTIFY_MUSIC.core.userbot import Userbot
 from SPOTIFY_MUSIC.misc import dbb, heroku
 from pyrogram import Client
 from SafoneAPI import SafoneAPI
+
 from .logging import LOGGER
 
 dirr()
@@ -44,9 +45,9 @@ git()
 dbb()
 heroku()
 
-app = BABY()
-api = SafoneAPI()
+nand = Shruti()
 userbot = Userbot()
+
 
 from .platforms import *
 
@@ -57,3 +58,4 @@ Spotify = SpotifyAPI()
 Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
+
